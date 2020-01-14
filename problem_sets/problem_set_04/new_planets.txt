@@ -1,0 +1,8 @@
+Mercury,Rocky,0
+Venus,Rocky,0
+Earth,Rocky,1
+Mars,Rocky,2
+Jupiter,Gas,79
+Saturn,Gas,62
+Uranus,Gas,27
+Neptune,Gas,14

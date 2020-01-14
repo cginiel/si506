@@ -1,0 +1,9 @@
+Name,Type,Number of Known Natural Satellites,Radius (km),Avg Distance from Sun (millions of km),Notable Feature
+Mercury,Rocky,0,2440,57.9,Mercury is smaller than the largest natural satellites in the solar system
+Venus,Rocky,0,6052,107.2,Venus has a surface atmospheric pressure more than 90 times greater than Earth
+Earth,Rocky,1,6371,149.6,Earth is the only known source of life in the solar system
+Mars,Rocky,2,3390,227.9,Olympus Mons - the tallest mountain in the solar system - is on Mars
+Jupiter,Gas,79,69911,778.5,Jupiter's Great Red Spot is a storm the size of the Earth
+Saturn,Gas,62,58232,1434,Saturn's south pole is surrounded by a regular hexagon cloud pattern
+Uranus,Gas,27,25362,2871,Uranus has an axial tilt of 98 degrees which means it is almost completely tipped on its side
+Neptune,Gas,14,24622,4495,Neptune was discovered by mathematically calculating where it must exist to cause perturbations to other planet's orbits
